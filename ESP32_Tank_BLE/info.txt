@@ -1,0 +1,4 @@
+- 2 motor brush
+- devastator
+- bluetooth controller
+- lcd without I2C
